@@ -40,13 +40,13 @@ app.use('/api/users',userfunction)
 app.use('/api/posts',postfunction)
 app.use('/api/notification',notificationfunction)
 
-if(process.env.NODE_ENV=== "production"){
-    app.use(express.static(path.join(__dirname , "/frontend/build")))
-    app.use("*",(req,res)=>{
-        res.sendFile(path.resolve(__dirname,"frontend","build","index.html"))
-    })
+// if(process.env.NODE_ENV=== "production"){
+//     app.use(express.static(path.join(__dirname , "/frontend/build")))
+//     app.use("*",(req,res)=>{
+//         res.sendFile(path.resolve(__dirname,"frontend","build","index.html"))
+//     })
     
-}
+//}
 app.listen(port,()=>{
     console.log(`Server running successfully in port ${port}`)
     connectdb();
