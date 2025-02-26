@@ -14,19 +14,26 @@ A full-stack social media platform inspired by *X (formerly Twitter)*, featuring
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page](https://github.com/user-attachments/assets/70bcd3dc-c7c8-4945-a371-73fe0dd7cb36)
+![image](https://github.com/user-attachments/assets/6f805dbc-7199-415a-a969-57d3277b503e)
+
 
 ### 🔑 SignUpPage
-![SignUp](https://github.com/user-attachments/assets/5a994b2a-6afb-4e65-8d57-aab34e1155af)
+![image](https://github.com/user-attachments/assets/ec67c2e9-348a-45ab-8598-d9ca38853388)
+
 
 ### 🏠 Home Section
-![Home Section](https://github.com/user-attachments/assets/c9a7f9d9-7ef9-4030-b2b1-a408897c838d)
+![image](https://github.com/user-attachments/assets/ce252e56-f7f3-497d-9733-c435e100b23d)
+
 
 ### 👤 Profile Section
-![Profile Section](https://github.com/user-attachments/assets/e9bd506e-a7d0-4c2e-9e75-893f3b538f6c)
+![image](https://github.com/user-attachments/assets/13ea52b9-70ea-4794-adfc-0657ebc7434d)
+
 
 ### ❤ Liked Posts
-![Liked Posts](https://github.com/user-attachments/assets/4fb4e65c-4a72-4cbb-a723-2e0db260ea97)
+![image](https://github.com/user-attachments/assets/97c789a0-db59-422f-a5ca-c2e554b633a3)
+
+### Notifications
+![image](https://github.com/user-attachments/assets/f7656ec0-8d8f-46a5-bcea-232479672723)
 
 ---
 
